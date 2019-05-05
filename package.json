@@ -1,0 +1,14 @@
+{
+    "name": "nexter",
+    "version": "1.0.0",
+    "description": "realtor website",
+    "main": "index.js",
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss css/style.css"
+    },
+    "author": "rishi",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.11.0"
+    }
+}
